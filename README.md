@@ -6,5 +6,5 @@ ball-beam.py : PID Controller code<br>
 ball-beam-balanced.jpg : Screenshot of balanced ball<br>
 ep-01.jpg/ ep-02.jpg/ ep-03.jpg : Screenshots of graphs for each episode<br>
 
-<img src="./ball-beam-balance.jpg">
+<img src="https://github.com/Atharva-05/erc-assignment/blob/main/ball-beam-balanced.jpg">
 
