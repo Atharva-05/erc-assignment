@@ -14,7 +14,9 @@ Balanced ball on a beam<br>
 <br><br><br>
 
 # Code
-'''
+
+```ruby
+
 import gym
 import ballbeam_gym
 import numpy as np
@@ -93,4 +95,4 @@ for ep in range(3):
     env.close()
         
 
-'''
+```
