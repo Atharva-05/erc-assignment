@@ -10,11 +10,11 @@ ep-01.jpg/ ep-02.jpg/ ep-03.jpg : Screenshots of graphs for each episode <br><br
 # Images
 Balanced ball on a beam<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ball-beam-balanced.jpg" width="500" height="300">
-<br>Episode 01<br><br>
+<br><br>Episode 01:<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-01.jpg" width="450" height="275">
-<br>Episode 02<br><br>
+<br><br>Episode 02<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-02.jpg" width="450" height="275">
-<br>Episode 03<br><br>
+<br><br>Episode 03<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-03.jpg" width="450" height="275">
 
 # Code
