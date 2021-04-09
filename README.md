@@ -12,9 +12,9 @@ Balanced ball on a beam:<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ball-beam-balanced.jpg" width="500" height="300">
 <br><br>Episode 01:<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-01.jpg" width="450" height="275">
-<br><br>Episode 02<br>
+<br><br>Episode 02:<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-02.jpg" width="450" height="275">
-<br><br>Episode 03<br>
+<br><br>Episode 03:<br>
 <img src="https://github.com/Atharva-05/erc-assignment/blob/main/ep-03.jpg" width="450" height="275">
 
 # Code
