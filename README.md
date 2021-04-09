@@ -21,7 +21,6 @@ import gym
 import ballbeam_gym
 import numpy as np
 from matplotlib import pyplot as plt
-import time
 
 #Values of P I D constants
 kp = 2.75
